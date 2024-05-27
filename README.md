@@ -2,6 +2,7 @@
 <br>
 <br>
 Images:
+<br>
 <img width="850" alt="1" src="https://github.com/krahul14/LinkedIn-profile-changer-ChromeExtension/assets/97145474/29f20ab2-652c-4ea7-a78a-98dc170668ea">
 <br>
 <br>
